@@ -4,6 +4,7 @@ package com.baizhi.entity;
 /*
 * 2019-9-24
 * 测试Git
+* 这是ieda中修改的内容
 */
 public class User {
     private Integer id;
