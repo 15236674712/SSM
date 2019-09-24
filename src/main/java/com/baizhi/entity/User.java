@@ -1,5 +1,10 @@
 package com.baizhi.entity;
 
+//修改
+/*
+* 2019-9-24
+* 测试Git
+*/
 public class User {
     private Integer id;
     private String username;
